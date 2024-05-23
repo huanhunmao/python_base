@@ -1,0 +1,3 @@
+haahha
+
+这是一个测试 python 读写的文件
